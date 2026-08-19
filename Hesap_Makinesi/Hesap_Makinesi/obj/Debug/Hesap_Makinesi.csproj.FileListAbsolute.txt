@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\GitHub\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe.config
+C:\Users\MONSTER\source\repos\GitHub\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe
+C:\Users\MONSTER\source\repos\GitHub\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.pdb
+C:\Users\MONSTER\source\repos\GitHub\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\GitHub\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\GitHub\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.exe
+C:\Users\MONSTER\source\repos\GitHub\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.pdb
